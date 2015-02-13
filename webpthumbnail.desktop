@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+Name=WebP Image
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=image/webp;
+CacheThumbnail=true
+X-KDE-Library=webpthumbnail
